@@ -1,0 +1,125 @@
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.cache
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+G:\GHO\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+G:\GHO\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+G:\GHO\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.Cache
+G:\GHO\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojResolveAssemblyReference.cache
+D:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+D:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+D:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.Cache
+E:\system\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+E:\system\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+E:\system\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojResolveAssemblyReference.cache
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+E:\system\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.Cache
+E:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+E:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+E:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojResolveAssemblyReference.cache
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+E:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.Cache
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojAssemblyReference.cache
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.CoreCompileInputs.cache
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FileForm.resources
+D:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MasForm.resources
+K:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+K:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+K:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojAssemblyReference.cache
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FileForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MasForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.cache
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.CoreCompileInputs.cache
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+K:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+G:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojResolveAssemblyReference.cache
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FileForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MasForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+G:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.Cache
+G:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+G:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+G:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+G:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+G:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojAssemblyReference.cache
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FileForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MasForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.cache
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.CoreCompileInputs.cache
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+L:\UF1800卧式连线\连线管理软件\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb
+L:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe.config
+L:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.exe
+L:\HansLinkManage\HansLinkManage\bin\Debug\HansLinkManage.pdb
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csprojAssemblyReference.cache
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.BatchForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FolderForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MainForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.FileForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.MasForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.Properties.Resources.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.SerialPortForm.resources
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.GenerateResource.cache
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.csproj.CoreCompileInputs.cache
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.exe
+L:\HansLinkManage\HansLinkManage\obj\Debug\HansLinkManage.pdb

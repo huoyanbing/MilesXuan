@@ -1,0 +1,12 @@
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Release\HansLinkManage.exe.config
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Release\HansLinkManage.exe
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\bin\Release\HansLinkManage.pdb
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.BatchForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.FolderForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.MainForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.Properties.Resources.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.SerialPortForm.resources
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.csproj.GenerateResource.cache
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.exe
+d:\documents\visual studio 2017\Projects\HansLinkManage\HansLinkManage\obj\Release\HansLinkManage.pdb
