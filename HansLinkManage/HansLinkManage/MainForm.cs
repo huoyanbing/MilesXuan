@@ -200,6 +200,24 @@ namespace HansLinkManage
                 }
                 if (str.CompareTo("TESTOK") == 0)
                 {
+                    if (blresult)
+                    {
+                        if (MessageBox.Show("飞针软件是否测试完成？", "询问", MessageBoxButtons.YesNo) == DialogResult.No)
+                        {
+                            MessageBox.Show("通讯流程出现错误，请清除PLC信号重新开始！！！");
+                            return;
+                        }
+                        else
+                        {
+                            if (MessageBox.Show("飞针软件是否回零完成？", "询问", MessageBoxButtons.YesNo) == DialogResult.No)
+                            {
+                                MessageBox.Show("通讯流程出现错误，请清除PLC信号重新开始！！！");
+                                return;
+                            }
+                            Thread.Sleep(1000);
+                        }
+                    }
+                    blresult = false;
                     int i;
                     for ( i=0;i<10;i++)
                     {
