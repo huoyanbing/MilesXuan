@@ -43,6 +43,7 @@ namespace HansLinkManage
         public bool threadState;
         public static bool blpipe;
         public static bool blmanual;
+        public static bool blresult;
         private delegate void ListViewHandler();
         LogHelper logHelper;
         bool flag = false;
@@ -60,6 +61,7 @@ namespace HansLinkManage
             threadState = false;
             blpipe = false;
             blmanual = false;
+            blresult = false;
             serialPortComm = new SerialPortComm();
             namedPipe = new NamedPipe();
             namedPipe.ReadFPTEvent += ReadFptData;
@@ -75,7 +77,7 @@ namespace HansLinkManage
             OpenSerialPortM();
             ThreadPool.QueueUserWorkItem(new WaitCallback(threadRecv));
             logHelper = new LogHelper("HLMLog");
-            fileOperate.ExecuteBatlFile();
+            //fileOperate.ExecuteBatlFile();
             ttsPassBoard.Alignment = ToolStripItemAlignment.Right;
             ttsOpenBoard.Alignment = ToolStripItemAlignment.Right;
             tssRestBoard.Alignment = ToolStripItemAlignment.Right;
